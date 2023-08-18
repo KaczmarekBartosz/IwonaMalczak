@@ -388,7 +388,7 @@ section {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(1, 22, 61, 0.9);
+  background: rgba(184, 170, 143, 0.9);
   transition: 0.3s;
 }
 
@@ -416,7 +416,7 @@ section {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #012970;
+  color: var(--secondgold);
 }
 
 .navbar-mobile a:hover,
@@ -556,8 +556,8 @@ section {
   }
 
   .hero .hero-img img {
-    width: 80%;
-    max-width: 400px;
+    width: 100%;
+    max-width: 800px;
   }
 }
 
