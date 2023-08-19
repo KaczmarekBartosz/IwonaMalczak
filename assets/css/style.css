@@ -1252,6 +1252,9 @@ section {
 .contact {
   background-color: var(--white);
 }
+.contact a {
+  color: var(--gold);
+}
 
 .contact .info-box {
   color: #444444;
